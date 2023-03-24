@@ -1,3 +1,6 @@
+# create a view to handle the approval process.
+# view will update the approved field of the corresponding Picture or Document object in the database.
+
 # Import the necessary modules
 from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponseRedirect
