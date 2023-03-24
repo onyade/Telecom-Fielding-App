@@ -1,3 +1,6 @@
+# create a Django app to handle the database management system.
+# use PostgreSQL as the database engine.
+
 # Import the necessary modules
 from django.db import models
 
