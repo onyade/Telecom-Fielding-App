@@ -1,3 +1,6 @@
+// create a function to handle the approval request logic.
+// function will use the nodemailer library to send an email to the field manager containing a link to approve the fielding pictures or documents.
+
 const nodemailer = require('nodemailer');
 
 // Function to send an approval request to the field manager
