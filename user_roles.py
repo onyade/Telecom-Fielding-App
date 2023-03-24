@@ -1,3 +1,5 @@
+# create a view to display a list of approved or unapproved Picture or Document objects based on the user's role.
+
 # Import the necessary modules
 from django.shortcuts import render
 from django.contrib.auth.decorators import login_required
